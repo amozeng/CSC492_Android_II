@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Rewards</string>
+    <string name="APIKeyJonsFileName">APIKey.json</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="student_email_edu">Student Email (.edu)</string>
+    <string name="student_id_number">Student Id Number</string>
+    <string name="username_example">chield</string>
+    <string name="firstName_example">Chris</string>
+    <string name="lastName_example">Hield</string>
+    <string name="password_example">••••••••</string>
+    <string name="your_story_count">Your Story: (0 of 360)</string>
+    <string name="department_example">Information Technology</string>
+    <string name="position_example">Director of Development</string>
+    <string name="profile_image">profileImage</string>
+    <string name="story_hint">Introduce yourself!</string>
+    <string name="username_display">(username)</string>
+    <string name="reward_history">Reward History (0):</string>
+    <string name="your_story">Your Story:</string>
+    <string name="points_to_award">Points to Award:</string>
+    <string name="position">Position:</string>
+    <string name="department">Department:</string>
+    <string name="points_awarded">Points Awarded:</string>
+    <string name="location">location</string>
+    <string name="_0">0</string>
+    <string name="lastname_firstname">lastName, firstName</string>
+    <string name="your_story_0_of_360">Your Story: (0 of 360)</string>
+    <string name="comment">Comment:</string>
+    <string name="add_comment">Add comment</string>
+
+</resources>

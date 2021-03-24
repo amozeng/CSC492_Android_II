@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_delete"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="Delete Profile"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_pref"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="pref"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="edit"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_leadboard"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Item"
+        app:showAsAction="always" />
+</menu>

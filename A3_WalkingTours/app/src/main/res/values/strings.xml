@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A3_WalkingTours</string>
+    <string name="title_activity_maps">Walking Tours</string>
+    <string name="cb_show_addresses">Show Addresses</string>
+    <string name="tv_currAddr">here is current address</string>
+    <string name="cb_show_geofences">Show Geofences</string>
+    <string name="cb_show_travel_path">Show Travel Path</string>
+    <string name="cb_show_tour_path">Show Tour Path</string>
+</resources>
